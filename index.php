@@ -54,5 +54,70 @@
         </nav>
     </header>
 
+    <!-- main -->
+    <main class="main">
+
+        <!-- Section - hero -->
+        <section id="hero" class="hero section dark-background">
+
+            <img src="assets/img/microsoft.jpg" alt="" data-aos="fade-in" class="abc">
+      
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+              <h2>Yasas Lekamge</h2>
+              <p>I'm a <span class="typed" data-typed-items="Developer, Mobile App Developer, API Developer, POS System Developer">Full Stack Developer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+            </div>
+      
+        </section>
+
+        <!-- Section - about -->
+        <section id="about" class="about section">
+            <div class="container section-title" data-aos="fade-up">
+                <h2>About</h2>
+                <p>I am an undergraduate Software Engineer at NIBM 🎓| Web Developer | POS Systems Developer | <br>
+
+                    I have completed my Diploma in Software Engineering  and pursuing Higher National Diploma
+                     Experienced in developing POS systems and web applications, with a keen eye for detail and 
+                     functionality. Currently seeking opportunities to apply my skills and contribute to innovative 
+                     projects in the tech industry.
+                </p>
+            </div>
+
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+                <div class="row gy-4 justify-content-center">
+                    <div class="col-lg-4">
+                        <img src="assets/img/microsoft.jpg" class="img-fluid" alt="">
+                      </div>
+                      <div class="col-lg-8 content">
+                        <h2>Mobile Developer <br> Full-Stack Web Developer.</h2>
+                        <p class="fst-italic py-3">
+                            A passionate Full-Stack Web and Mobile Developer, skilled in creating responsive, 
+                            user-friendly applications with a focus on efficient design and seamless functionality. 
+                            Dedicated to continuous learning and leveraging modern technologies to deliver high-quality 
+                            digital solutions.
+                        </p>
+                        <div class="row">
+                          <div class="col-lg-6">
+                            <ul>
+                              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>17 Feb 2001</span></li>
+                              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+94 74 23 53 017</span></li>
+                              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Kegalle, Sri Lanka</span></li>
+                            </ul>
+                          </div>
+                          <div class="col-lg-6">
+                            <ul>
+                              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23</span></li>
+                              <li><i class="bi bi-chevron-right"></i> <strong>Education:</strong> <span>HND in Software Engineering (Ongoing)</span></li>
+                              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>yasaslekamge@gmail.com</span></li>
+                            </ul>
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </section>
+
+    </main>
+
 </body>
 </html>
