@@ -40,6 +40,7 @@
             <a href="https://www.facebook.com/profile.php?id=100082016200193&mibextid=JRoKGi" class="facebook"><i class="bi bi-facebook"></i></a>
             <a href="https://www.instagram.com/_yasas___?igsh=MWdqcGFqemlmdTVvdQ==" class="instagram"><i class="bi bi-instagram"></i></a>
             <a href="https://www.linkedin.com/in/yasasdev" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            <a href="https://github.com/yasasdev" class="github"><i class="bi bi-github"></i></a>
         </div> <br> <br>
 
         <nav id="navmenu" class="navmenu">
