@@ -35,6 +35,7 @@
             <h1 class="sitename">Yasas Lekamge</h1>
         </a><br>
 
+        <!-- Social links -->
         <div class="social-links">
             <a href="https://x.com/YasasLekamge?t=d9KdCoUU8F2140cbzwGAgQ&s=09" class="twitter"><i class="bi bi-twitter"></i></a>
             <a href="https://www.facebook.com/profile.php?id=100082016200193&mibextid=JRoKGi" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -43,6 +44,7 @@
             <a href="https://github.com/yasasdev" class="github"><i class="bi bi-github"></i></a>
         </div> <br> <br>
 
+        <!-- Navigation Menu -->
         <nav id="navmenu" class="navmenu">
             <ul>
             <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Home</a></li>
@@ -116,6 +118,96 @@
                 </div>
             </div>
             
+        </section>
+
+        <!-- Section - stat -->
+        <section id="stats" class="stats section">
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+                <div class="row gy-4 center">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item">
+                            <i class="bi bi-emoji-smile"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+                            <p><strong>Happy Clients</strong> <span>and counting</span></p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="stats-item">
+                            <i class="bi bi-journal-richtext"></i>
+                            <span data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="2" class="purecounter"></span>
+                            <p><strong>Projects</strong> <span>completed successfully</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section - skills -->
+        <section id="skills" class="skills section light-background">
+            <div class="container section-title" data-aos="fade-up">
+                <h2>Skills</h2>
+                <p>
+                    As a Full Stack Developer with in-depth skills in web and mobile software development, 
+                    I have a passion for building dynamic and appealing front end as well as solid and efficient 
+                    back end systems. I am proficient in HTML and CSS and have good experience in Javascript, 
+                    PHP and Flutter and I have a desire to create perfect digital solutions. I am competent in 
+                    Node.js and its frameworks enabling me to tailor design efficient and scalable applications 
+                    for different project requirements.
+                </p>
+            </div>
+        
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+                <div class="row skills-content skills-animation">
+                    
+                    <!-- Progression bar for each skill -->
+                    <div class="col-lg-6">
+                        
+                        <div class="progress">
+                            <span class="skill"><span>HTML</span> <i class="val">100%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+        
+                        <div class="progress">
+                            <span class="skill"><span>CSS</span> <i class="val">100%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+        
+                        <div class="progress">
+                            <span class="skill"><span>JavaScript</span> <i class="val">75%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+        
+                    <div class="col-lg-6">
+                        <div class="progress">
+                            <span class="skill"><span>PHP</span> <i class="val">75%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+        
+                        <div class="progress">
+                            <span class="skill"><span>NodeJS</span> <i class="val">65%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+        
+                        <div class="progress">
+                            <span class="skill"><span>Flutter</span> <i class="val">75%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
 
     </main>
