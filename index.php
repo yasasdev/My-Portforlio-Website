@@ -210,6 +210,187 @@
             </div>
         </section>
 
+        <!-- Section - Resume -->
+        <section id="resume" class="resume section">
+
+            <div class="container section-title" data-aos="fade-up">
+            <h2>Resume</h2>
+            <p>
+                Having a solid background in software engineering coupled with practical implementation of 
+                web applications and POS systems, offers a sound technical and detail-oriented design. My line 
+                of education in Software Engineering, together with hands-on experience, positions me to provide 
+                practical and effective solutions. I am ready to play my part in any fast-moving, innovative 
+                project and I am keen on learning and evolving the technology beyond its limits within the 
+                industry.
+             </p>             
+            </div>
+    
+            <div class="container">
+    
+                <div class="row">
+        
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+        
+                    <h3 class="resume-title">Education</h3> <br/>
+                    <div class="resume-item">
+                        <h4>Diploma in Software Engineering</h4>
+                        <h5>2022 - 2023</h5>
+                        <p><em>National Institute of Business Management</em></p>
+                    </div>
+        
+                    <div class="resume-item">
+                        <h4>Certificate in Network Engineering</h4>
+                        <h5>2021 - 2022</h5>
+                        <p><em>National Institute of Business Management</em></p>
+                    </div>
+
+                    <div class="resume-item">
+                        <h4>Diploma in PC Hardware Engineering and Network Administration</h4>
+                        <h5>2018</h5>
+                        <p><em>Esoft Metro Campus</em></p>
+                    </div>
+
+                    <div class="resume-item">
+                        <h4>Advanced Level Examination</h4>
+                        <h5>2021</h5>
+                        <p><em>Wayamba Royal College - Kurunegala</em></p>
+                    </div>
+
+                    <div class="resume-item">
+                        <h4>Ordinary Level Examination</h4>
+                        <h5>2018</h5>
+                        <p><em>Royal International School - Kegalle</em></p>
+                    </div>
+        
+                    </div>
+        
+                    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                        <h3 class="resume-title">Professional Experience</h3> <br/>
+                        <div class="resume-item">
+                            <h4>POS System Development(Individual)</h4>
+                            <h5>2023</h5>
+                            <ul>
+                                <li>Installed a Desktop Application using C# language for a Vehicle Spare parts
+                                    shop
+                                </li>
+                                <li>
+                                    Features
+                                    <ul>
+                                        <li>Authentication</li>
+                                        <li>Filtering Options</li>
+                                        <li>Summary - (Daily, Monthly and Yearly)</li>
+                                        <li>Total cost of the day</li>
+                                        <li>Bill Printing</li>
+                                        <li>Re-print</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+        
+                    </div>
+        
+                </div>
+    
+            </div>
+    
+        </section>
+
+        <!-- Section - Portfolio -->
+        <section id="portfolio" class="portfolio section light-background">
+
+            <div class="container section-title" data-aos="fade-up">
+            <h2>Portfolio</h2>
+            <p>
+                Take a look at this portfolio, showcasing my wide array of works including, 
+                adaptive web-pages, high-end Point of Sale(POS) systems, application programming interface(APIs) 
+                connections and mobile applications.. Every project demonstrates my focus on providing working cellular 
+                solutions on many levels, using cutting-edge solutions to address the issues of real life. In such 
+                works I wish to perform not only my skills in technology but my responsibility for producing 
+                effective and high-end digital products as well.
+            </p> <br/> <br/>
+     
+            <div class="container">
+    
+                <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+        
+                    <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+                    <li data-filter="*" class="filter-active">All Projects</li>
+                    <li data-filter=".filter-websites">Websites</li>
+                    <li data-filter=".filter-pos">POS Systems</li>
+                    <li data-filter=".filter-api">APIs</li>
+                    <li data-filter=".filter-books">Mobile Applications</li>
+                    </ul>
+        
+                    <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+        
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-websites">
+                            <div class="portfolio-content h-100">
+                            <img src="assets/img/Restaurant Website.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Website 1</h4>
+                                <p>Website created for a Restaurant(Individual)</p>
+                                <a href="assets/img/Restaurant Website.png" title="Website 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                            </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-pos">
+                            <div class="portfolio-content h-100">
+                            <img src="assets/img/Web Based POS System.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>POS 1</h4>
+                                <p>POS system created for a Phone Shop(Individual)</p>
+                                <a href="assets/img/Web Based POS System.png" title="POS 1" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                            </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-api">
+                            <div class="portfolio-content h-100">
+                            <img src="assets/img/API.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>API 1</h4>
+                                <p>Calendrific API connected(Individual)</p>
+                                <a href="assets/img/API.png" title="API 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                            </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+                            <div class="portfolio-content h-100">
+                            <img src="assets/img/microsoft.jpg" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>Books 1</h4>
+                                <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                <a href="assets/img/microsoft.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                            </div>
+                            </div>
+                        </div>
+            
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-pos">
+                            <div class="portfolio-content h-100">
+                            <img src="assets/img/POS C Language.png" class="img-fluid" alt="">
+                            <div class="portfolio-info">
+                                <h4>POS 2</h4>
+                                <p>POS system created for a vehicle spare parts shop(Individual)</p>
+                                <a href="assets/img/POS C Language.png" title="POS 2" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                <a href="#" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                            </div>
+                            </div>
+                        </div>
+        
+                    </div>
+        
+                </div>
+    
+            </div>
+    
+        </section>
+
     </main>
 
 </body>
