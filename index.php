@@ -391,7 +391,99 @@
     
         </section>
 
+        <!-- Section - Contact -->
+        <section id="contact" class="contact section">
+
+            <div class="container section-title" data-aos="fade-up">
+            <h2>Contact</h2>
+            <p>
+                If you have any questions, project ideas, or collaboration requests, feel free to reach out! I'm here 
+                to help and look forward to connecting with you.
+            </p>
+            </div>
+    
+            <div class="container" data-aos="fade-up" data-aos-delay="100">
+    
+                <div class="row gy-4">
+        
+                    <div class="col-lg-5">
+        
+                        <div class="info-wrap">
+                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                            <i class="bi bi-geo-alt flex-shrink-0"></i>
+                            <div>
+                                <h3>Address</h3>
+                                <p>Kegalle, Sri Lanka</p>
+                            </div>
+                            </div>
+            
+                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                            <i class="bi bi-telephone flex-shrink-0"></i>
+                            <div>
+                                <h3>Call Us</h3>
+                                <p>+94 74 23 53 017</p>
+                            </div>
+                            </div>
+            
+                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                            <i class="bi bi-envelope flex-shrink-0"></i>
+                            <div>
+                                <h3>Email Us</h3>
+                                <p>yasaslekamge@gmail.com</p>
+                            </div>
+                            </div>
+            
+                        </div>
+                    </div>
+        
+                    <div class="col-lg-7">
+                        <form action="contact.php" method="post" class="email-form" data-aos="fade-up" data-aos-delay="200">
+                            <div class="row gy-4">
+            
+                                <div class="col-md-6">
+                                    <input type="text" name="name" id="name-field" class="form-control" placeholder="Enter Your Name" required>
+                                </div>
+                
+                                <div class="col-md-6">
+                                    <input type="email" class="form-control" name="email" id="email-field" placeholder="Enter Your Email" required>
+                                </div>
+                
+                                <div class="col-md-12">
+                                    <input type="text" class="form-control" name="subject" id="subject-field" placeholder="Enter Subject" required>
+                                </div>
+                
+                                <div class="col-md-12">
+                                    <textarea class="form-control" name="message" rows="10" id="message-field" placeholder="Enter Your Message" required></textarea>
+                                </div>
+                
+                                <div class="col-md-12 text-center">                
+                                    <button type="submit" name="send">Send Message</button>
+                                </div>
+            
+                            </div>
+                        </form>
+                    </div>
+        
+                </div>
+    
+            </div>
+    
+        </section>
+
     </main>
+
+    <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Preloader -->
+    <div id="preloader"></div>
+
+    <!-- JS Files -->
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script> <!-- AOS (scroll animations) -->
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script> <!-- Typed.js (typing effect) -->
+    <script src="https://cdn.jsdelivr.net/npm/glightbox@3.0.6/dist/js/glightbox.min.js"></script> <!-- GLightbox -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8.4.5/swiper-bundle.min.js"></script> <!-- Swiper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script> <!-- Bootstrap -->
+    <script src="./assets/js/main.js"></script> 
 
 </body>
 </html>
