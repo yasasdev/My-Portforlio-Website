@@ -1,0 +1,42 @@
+# Composer dependencies
+/vendor/
+composer.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# PHPStorm specific files
+.idea/
+
+# Laravel specific files
+/storage/
+bootstrap/cache/
+
+# Symfony specific files
+/var/
+/config/jwt/
+
+# Logs and temp files
+*.log
+*.cache
+*.tmp
+
+# PHPUnit test results
+phpunit.xml
+phpunit.xml.dist
+/build/
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Node modules (if using frontend with npm or yarn)
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db
